@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java backend**
 
-- 👨‍💻 All of my projects are available at [https://nehakumari.netlify.app/](https://nehakumari.netlify.app/)
+- 👨‍💻 All of my projects are available at [nehakumari-myportfolio.netlify.app/](https://nehakumari.netlify.app/)
 
 - 💬 Ask me about **JAVA, Spring Boot Frameworks, Rest Api , HTML, CSS, JavaScript**
 
